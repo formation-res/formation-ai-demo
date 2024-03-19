@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "0",
+        "type": "Feature",
+        "properties": {"Name": "Checkpoint Charlie"},
+        "geometry": {"type": "Point", "coordinates": [13.3904, 52.5076]}
+      },
+      {
+        "id": "1",
+        "type": "Feature",
+        "properties": {"Name": "Topography of Terror"},
+        "geometry": {"type": "Point", "coordinates": [13.385, 52.5065]}
+      },
+      {
+        "id": "2",
+        "type": "Feature",
+        "properties": {"Name": "Berlinische Galerie"},
+        "geometry": {"type": "Point", "coordinates": [13.3946, 52.5025]}
+      },
+      {
+        "id": "3",
+        "type": "Feature",
+        "properties": {"Name": "German Museum of Technology"},
+        "geometry": {"type": "Point", "coordinates": [13.3777, 52.4986]}
+      },
+      {
+        "id": "4",
+        "type": "Feature",
+        "properties": {"Name": "Tempodrom"},
+        "geometry": {"type": "Point", "coordinates": [13.3811, 52.4982]}
+      }
+    ]
+  }

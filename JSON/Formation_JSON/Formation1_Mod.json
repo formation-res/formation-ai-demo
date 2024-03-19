@@ -1,0 +1,5156 @@
+{
+  "from": 0,
+  "pageSize": 321,
+  "total": 66,
+  "time": 13,
+  "hits": [
+    {
+      "hit": {
+        "id": "_6wZZL6B0lxvncmraGnUOA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:40:32.188470Z",
+        "updatedAt": "2024-03-06T15:29:37.812632Z",
+        "enrichedAt": "2024-03-14T21:04:01.178699Z",
+        "latLon": {
+          "lat": 52.5413027297908,
+          "lon": 13.390590419912087
+        },
+        "title": "Seating area",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:seating ",
+          "Keyword:area",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390590419912087,
+            52.5413027297908
+          ]
+        },
+        "keywords": [
+          "seating ",
+          "area",
+          "2",
+          "A"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "42721499-80a0-47df-8bee-4161a8485070",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f36867e6-81d7-43d5-8abe-a6898686ec82",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/f36867e6-81d7-43d5-8abe-a6898686ec82",
+            "thumbNail": {
+              "type": "Image",
+              "id": "76d33c7d-c7be-45c8-a172-7e0c63c701ff",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f36867e6-81d7-43d5-8abe-a6898686ec82_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/f36867e6-81d7-43d5-8abe-a6898686ec82_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:seating , Keyword:area, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.188791,
+      "distanceMeters": 4.1290954136386855
+    },
+    {
+      "hit": {
+        "id": "dWFw6VS3rbjaQD_YnWkQlg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:44:43.577001Z",
+        "updatedAt": "2024-03-06T15:27:12.954847Z",
+        "enrichedAt": "2024-03-14T21:04:01.169029Z",
+        "latLon": {
+          "lat": 52.541228024060786,
+          "lon": 13.390581992113766
+        },
+        "title": "Seating area",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:seating ",
+          "Keyword:area",
+          "Keyword:1",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390581992113766,
+            52.541228024060786
+          ]
+        },
+        "keywords": [
+          "seating ",
+          "area",
+          "1",
+          "A"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "a58ad00b-cf45-450a-a49e-6979f915f09d",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f1d46359-4a8f-4703-bd91-bdf33eb1b5b7",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/f1d46359-4a8f-4703-bd91-bdf33eb1b5b7",
+            "thumbNail": {
+              "type": "Image",
+              "id": "ebb11a51-e036-4508-bbc1-ea19c20be30e",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f1d46359-4a8f-4703-bd91-bdf33eb1b5b7_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/f1d46359-4a8f-4703-bd91-bdf33eb1b5b7_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:seating , Keyword:area, Keyword:1, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.1845875,
+      "distanceMeters": 4.334706120351018
+    },
+    {
+      "hit": {
+        "id": "_gGMHYJA7AQLkBszKe1evg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:08:07.679601Z",
+        "updatedAt": "2024-03-06T14:08:08.189086Z",
+        "enrichedAt": "2024-03-14T21:04:00.258781Z",
+        "latLon": {
+          "lat": 52.541306109911346,
+          "lon": 13.390616473599493
+        },
+        "title": "Community Kitchen 1A",
+        "tags": [
+          "IconCategory:Food",
+          "Color:GreenVibrant",
+          "Shape:Circle",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Community Kitchen",
+          "Keyword:1",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390616473599493,
+            52.541306109911346
+          ]
+        },
+        "keywords": [
+          "Community Kitchen",
+          "1",
+          "A"
+        ],
+        "color": "GreenVibrant",
+        "iconCategory": "Food",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "09b68417-ce44-454b-84dc-18f05286ee55",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/41f5e6e6-9d2b-48f7-8288-f69414c57688",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/41f5e6e6-9d2b-48f7-8288-f69414c57688",
+            "thumbNail": {
+              "type": "Image",
+              "id": "772792f3-8f63-452d-8001-eefd7a0a5232",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/41f5e6e6-9d2b-48f7-8288-f69414c57688_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/41f5e6e6-9d2b-48f7-8288-f69414c57688_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nCommunity Kitchen 1A: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Community Kitchen, Keyword:1, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.165296,
+      "distanceMeters": 5.191121077600084
+    },
+    {
+      "hit": {
+        "id": "MGKe0LslO5kjtCpJokMKCg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:12:38.324533Z",
+        "updatedAt": "2024-03-06T14:19:08.689672Z",
+        "enrichedAt": "2024-03-14T21:04:00.295160Z",
+        "latLon": {
+          "lat": 52.54129184005993,
+          "lon": 13.390499853786423
+        },
+        "title": "Event Space",
+        "tags": [
+          "IconCategory:Megaphone",
+          "Color:AquaMarine",
+          "Shape:Square",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:3",
+          "Keyword:A",
+          "Keyword:Event",
+          "Keyword:Space",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390499853786423,
+            52.54129184005993
+          ]
+        },
+        "keywords": [
+          "3",
+          "A",
+          "Event",
+          "Space"
+        ],
+        "color": "AquaMarine",
+        "iconCategory": "Megaphone",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "be8f30a6-8a38-4544-ad75-164866df3d73",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/59f92ca2-57d3-4305-9a80-fb5e288744e8",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/59f92ca2-57d3-4305-9a80-fb5e288744e8",
+            "thumbNail": {
+              "type": "Image",
+              "id": "28e4d238-26c2-41d7-84e9-0937584d7ffe",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/59f92ca2-57d3-4305-9a80-fb5e288744e8_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/59f92ca2-57d3-4305-9a80-fb5e288744e8_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nEvent Space: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:3, Keyword:A, Keyword:Event, Keyword:Space, ObjectType:POI"
+      },
+      "score": 15.153542,
+      "distanceMeters": 5.802388704633377
+    },
+    {
+      "hit": {
+        "id": "JsIvzeiuvUTtgZ8-hjipZA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:28:43.603288Z",
+        "updatedAt": "2024-03-06T13:51:43.546739Z",
+        "enrichedAt": "2024-03-14T21:04:00.188403Z",
+        "latLon": {
+          "lat": 52.54122082719604,
+          "lon": 13.390624466056124
+        },
+        "title": "Conference Room : Oslo",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Oslo",
+          "Keyword:3",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390624466056124,
+            52.54122082719604
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Oslo",
+          "3",
+          "A"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "638cde9c-940a-4ab7-a5d9-e08667b525c8",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/e0763fb3-ab0c-4a10-aea7-bac7ff6bc50b",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/e0763fb3-ab0c-4a10-aea7-bac7ff6bc50b",
+            "thumbNail": {
+              "type": "Image",
+              "id": "d0266fa2-d786-494d-8c0c-8b8dcd7ac6b3",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/e0763fb3-ab0c-4a10-aea7-bac7ff6bc50b_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/e0763fb3-ab0c-4a10-aea7-bac7ff6bc50b_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Oslo: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Oslo, Keyword:3, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.146802,
+      "distanceMeters": 6.103370896345424
+    },
+    {
+      "hit": {
+        "id": "lRHYWvO64-pG08f_UTSXsQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:37:09.680922Z",
+        "updatedAt": "2024-03-06T13:55:23.168560Z",
+        "enrichedAt": "2024-03-14T21:04:00.191570Z",
+        "latLon": {
+          "lat": 52.541303793896304,
+          "lon": 13.390654064863838
+        },
+        "title": "Post Office",
+        "tags": [
+          "IconCategory:Pin",
+          "Color:BlueSky",
+          "Shape:Trapezoid",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Post",
+          "Keyword:Office",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390654064863838,
+            52.541303793896304
+          ]
+        },
+        "keywords": [
+          "Post",
+          "Office",
+          "2",
+          "A"
+        ],
+        "color": "BlueSky",
+        "iconCategory": "Pin",
+        "shape": "Trapezoid",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "befa18d3-0fee-4b48-8d7f-adb6102134d8",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/efcc5cef-a4d0-4aaa-9d06-835219de53b3",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/efcc5cef-a4d0-4aaa-9d06-835219de53b3",
+            "thumbNail": {
+              "type": "Image",
+              "id": "9e1259df-f9cd-4252-8958-f40ad4902f2c",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/efcc5cef-a4d0-4aaa-9d06-835219de53b3_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/efcc5cef-a4d0-4aaa-9d06-835219de53b3_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nPost Office: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Post, Keyword:Office, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.134613,
+      "distanceMeters": 6.74138067383059
+    },
+    {
+      "hit": {
+        "id": "ippcZMCdDiGvGYxh1Fu5Kw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:39:16.695597Z",
+        "updatedAt": "2024-03-06T14:11:57.184309Z",
+        "enrichedAt": "2024-03-14T21:04:00.264651Z",
+        "latLon": {
+          "lat": 52.54127218257918,
+          "lon": 13.39046639451135
+        },
+        "title": "Conference Room : Bilbao",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Bilbao",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39046639451135,
+            52.54127218257918
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Bilbao",
+          "2",
+          "A"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nConference Room : Bilbao: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Bilbao, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.122614,
+      "distanceMeters": 7.376853153564715
+    },
+    {
+      "hit": {
+        "id": "WSJRRQ_1RxQnE2dKHMcq-w",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:07:28.167617Z",
+        "updatedAt": "2024-03-06T14:47:36.637967Z",
+        "enrichedAt": "2024-03-14T21:04:01.167007Z",
+        "latLon": {
+          "lat": 52.54132378807236,
+          "lon": 13.390639020404137
+        },
+        "title": "Toilet",
+        "tags": [
+          "IconCategory:Toilet",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:1",
+          "Keyword:A",
+          "Keyword:Shower",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390639020404137,
+            52.54132378807236
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "1",
+          "A",
+          "Shower"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "Toilet",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "21bd2f48-be72-4971-933f-ae7a2bd1f094",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a7dcdee2-6088-4fa5-80e9-4c37fd3b75f6",
+            "width": 768,
+            "height": 1024,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/a7dcdee2-6088-4fa5-80e9-4c37fd3b75f6",
+            "thumbNail": {
+              "type": "Image",
+              "id": "37dcc372-feb3-476e-81e0-816d7d562cb6",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a7dcdee2-6088-4fa5-80e9-4c37fd3b75f6_thmb",
+              "width": 225,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/a7dcdee2-6088-4fa5-80e9-4c37fd3b75f6_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:1, Keyword:A, Keyword:Shower, ObjectType:POI"
+      },
+      "score": 15.118216,
+      "distanceMeters": 7.6719826545915435
+    },
+    {
+      "hit": {
+        "id": "6LMFYTzrtL2IWxY1REDM6A",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:06:37.082145Z",
+        "updatedAt": "2024-03-06T14:06:37.941961Z",
+        "enrichedAt": "2024-03-14T21:04:00.253088Z",
+        "latLon": {
+          "lat": 52.54133377659127,
+          "lon": 13.390548333905372
+        },
+        "title": "Printer 1A",
+        "tags": [
+          "IconCategory:Printer",
+          "Color:Yellow",
+          "Shape:Diamond",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Printer",
+          "Keyword:Drucker",
+          "Keyword:1",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390548333905372,
+            52.54133377659127
+          ]
+        },
+        "keywords": [
+          "Printer",
+          "Drucker",
+          "1",
+          "A"
+        ],
+        "color": "Yellow",
+        "iconCategory": "Printer",
+        "shape": "Diamond",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "04e77e0f-1bca-4dc2-a68b-4f10ca37e9f5",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/2324b792-d0d6-48aa-9205-c3788ad59430",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/2324b792-d0d6-48aa-9205-c3788ad59430",
+            "thumbNail": {
+              "type": "Image",
+              "id": "693ebcfb-fe0a-4cea-881a-b43c99ac98c1",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/2324b792-d0d6-48aa-9205-c3788ad59430_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/2324b792-d0d6-48aa-9205-c3788ad59430_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nPrinter 1A: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Printer, Keyword:Drucker, Keyword:1, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.116979,
+      "distanceMeters": 7.666447531748264
+    },
+    {
+      "hit": {
+        "id": "QMT6ZBNewW0c5sHzC4yEzA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:37:43.126127Z",
+        "updatedAt": "2024-03-06T14:42:16.685959Z",
+        "enrichedAt": "2024-03-14T21:04:00.424432Z",
+        "latLon": {
+          "lat": 52.54136597387259,
+          "lon": 13.390549544048895
+        },
+        "title": "Conference Room : Jaffa",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Jaffa",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390549544048895,
+            52.54136597387259
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Jaffa",
+          "2",
+          "A"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "0133e44a-5849-437b-aa76-8ee02247c1f7",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/2eeaaa14-df88-456a-b9be-693c22c2ab0b",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/2eeaaa14-df88-456a-b9be-693c22c2ab0b",
+            "thumbNail": {
+              "type": "Image",
+              "id": "a0a75480-8bfb-47d3-839e-a7907e429ad1",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/2eeaaa14-df88-456a-b9be-693c22c2ab0b_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/2eeaaa14-df88-456a-b9be-693c22c2ab0b_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Jaffa: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Jaffa, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.050692,
+      "distanceMeters": 11.16437130502965
+    },
+    {
+      "hit": {
+        "id": "qtUjOhMNxqs4heIvFmXEsg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:38:40.248144Z",
+        "updatedAt": "2024-03-06T14:40:17.432896Z",
+        "enrichedAt": "2024-03-14T21:04:00.423108Z",
+        "latLon": {
+          "lat": 52.541339304162506,
+          "lon": 13.390455484554877
+        },
+        "title": "Conference Room : Casablanca",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Casablanca",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390455484554877,
+            52.541339304162506
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Casablanca",
+          "2",
+          "A"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "df751b2f-774a-43fd-8c78-9541baac0f9d",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f6a2c83f-3d04-4e4e-a01e-01c8e4bced28",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/f6a2c83f-3d04-4e4e-a01e-01c8e4bced28",
+            "thumbNail": {
+              "type": "Image",
+              "id": "372c0047-1015-46ef-b5a7-175f5d615223",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/f6a2c83f-3d04-4e4e-a01e-01c8e4bced28_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/f6a2c83f-3d04-4e4e-a01e-01c8e4bced28_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Casablanca: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Casablanca, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.045683,
+      "distanceMeters": 11.422823308540622
+    },
+    {
+      "hit": {
+        "id": "Z52h1cjHqsxtSkpYNajQeg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:39:09.932650Z",
+        "updatedAt": "2024-03-06T15:29:14.606277Z",
+        "enrichedAt": "2024-03-14T21:04:01.179502Z",
+        "latLon": {
+          "lat": 52.54115332522386,
+          "lon": 13.390563218795819
+        },
+        "title": "Fu\u00dfball table ",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Foosball",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390563218795819,
+            52.54115332522386
+          ]
+        },
+        "keywords": [
+          "Foosball",
+          "2",
+          "A"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "37fe244a-c810-4829-94e5-b52a65e90bbe",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d12c377b-25e4-4751-b214-dfb9e3b2801e",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/d12c377b-25e4-4751-b214-dfb9e3b2801e",
+            "thumbNail": {
+              "type": "Image",
+              "id": "ac165014-c668-409c-8624-749f5f3ea44b",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d12c377b-25e4-4751-b214-dfb9e3b2801e_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/d12c377b-25e4-4751-b214-dfb9e3b2801e_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nFu\u00dfball table : FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Foosball, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.02403,
+      "distanceMeters": 12.641417528277492
+    },
+    {
+      "hit": {
+        "id": "zGUapN0OfxN29AbTmkexwg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:05:45.647976Z",
+        "updatedAt": "2024-03-06T14:48:05.069107Z",
+        "enrichedAt": "2024-03-14T21:04:01.166672Z",
+        "latLon": {
+          "lat": 52.54134524656345,
+          "lon": 13.390440182965563
+        },
+        "title": "Conference Room : Santorini",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:1",
+          "Keyword:A",
+          "Keyword:Santorini",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390440182965563,
+            52.54134524656345
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "1",
+          "A",
+          "Santorini"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "4a613cac-1bbc-4283-b1d3-0875d1af73c3",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/8c01ebd0-195b-480f-8ba8-474ca588c2ad",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/8c01ebd0-195b-480f-8ba8-474ca588c2ad",
+            "thumbNail": {
+              "type": "Image",
+              "id": "d10d5e9d-a051-4eca-b9fb-e5eb30a1504c",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/8c01ebd0-195b-480f-8ba8-474ca588c2ad_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/8c01ebd0-195b-480f-8ba8-474ca588c2ad_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Santorini: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:1, Keyword:A, Keyword:Santorini, ObjectType:POI"
+      },
+      "score": 15.023043,
+      "distanceMeters": 12.62493041488326
+    },
+    {
+      "hit": {
+        "id": "NCbOehernTu5dyPVenwZJg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:30:25.096641Z",
+        "updatedAt": "2024-03-06T14:35:25.110045Z",
+        "enrichedAt": "2024-03-14T21:04:00.406629Z",
+        "latLon": {
+          "lat": 52.54138652047854,
+          "lon": 13.390568621754937
+        },
+        "title": "Conference Room : Lima",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Lima",
+          "Keyword:3",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390568621754937,
+            52.54138652047854
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Lima",
+          "3",
+          "A"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "8eccca2c-f5be-49a4-a213-d299b3849c55",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/c122d5f6-fc59-48a0-a78f-9d467a7cb9f5",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/c122d5f6-fc59-48a0-a78f-9d467a7cb9f5",
+            "thumbNail": {
+              "type": "Image",
+              "id": "18261cff-6222-401b-b052-041b7d756717",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/c122d5f6-fc59-48a0-a78f-9d467a7cb9f5_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/c122d5f6-fc59-48a0-a78f-9d467a7cb9f5_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Lima: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Lima, Keyword:3, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.009395,
+      "distanceMeters": 13.321563598171084
+    },
+    {
+      "hit": {
+        "id": "653QTtndFZ5XUlNrSehxRQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:41:10.976462Z",
+        "updatedAt": "2024-03-06T13:54:45.607308Z",
+        "enrichedAt": "2024-03-14T21:04:00.191012Z",
+        "latLon": {
+          "lat": 52.54116156397518,
+          "lon": 13.390667138421577
+        },
+        "title": "Fitzcarraldo Cafe",
+        "tags": [
+          "IconCategory:Sausage",
+          "Color:RedFire",
+          "Shape:Circle",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Cafe",
+          "Keyword:Fitzcarraldo",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390667138421577,
+            52.54116156397518
+          ]
+        },
+        "keywords": [
+          "Cafe",
+          "Fitzcarraldo",
+          "2",
+          "A"
+        ],
+        "color": "RedFire",
+        "iconCategory": "Sausage",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "183a542f-6c55-4396-afe8-5f4672a1608e",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/47dc2875-5cf0-494f-9c19-773d28324a9c",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/47dc2875-5cf0-494f-9c19-773d28324a9c",
+            "thumbNail": {
+              "type": "Image",
+              "id": "c4986f36-c212-416f-b3b9-a8e061b821e5",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/47dc2875-5cf0-494f-9c19-773d28324a9c_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/47dc2875-5cf0-494f-9c19-773d28324a9c_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nFitzcarraldo Cafe: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Cafe, Keyword:Fitzcarraldo, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 15.009302,
+      "distanceMeters": 13.251959655830111
+    },
+    {
+      "hit": {
+        "id": "yb8jGQa-rSRPOPx8Zk79fg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:27:41.772498Z",
+        "updatedAt": "2024-03-06T13:51:20.782782Z",
+        "enrichedAt": "2024-03-14T21:04:00.188681Z",
+        "latLon": {
+          "lat": 52.54116194532483,
+          "lon": 13.390699939752267
+        },
+        "title": "Community Kitchen 3A",
+        "tags": [
+          "IconCategory:Food",
+          "Color:GreenVibrant",
+          "Shape:Circle",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Community Kitchen",
+          "Keyword:3",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390699939752267,
+            52.54116194532483
+          ]
+        },
+        "keywords": [
+          "Community Kitchen",
+          "3",
+          "A"
+        ],
+        "color": "GreenVibrant",
+        "iconCategory": "Food",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "53f7b1e9-c101-4390-964f-2d2e045f0b45",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/30bd99e1-cca2-463d-8087-7dfa04797c61",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/30bd99e1-cca2-463d-8087-7dfa04797c61",
+            "thumbNail": {
+              "type": "Image",
+              "id": "f744acbf-3795-480d-a87d-a69dd146c7ce",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/30bd99e1-cca2-463d-8087-7dfa04797c61_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/30bd99e1-cca2-463d-8087-7dfa04797c61_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nCommunity Kitchen 3A: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Community Kitchen, Keyword:3, Keyword:A, ObjectType:POI"
+      },
+      "score": 14.98755,
+      "distanceMeters": 14.392899604127782
+    },
+    {
+      "hit": {
+        "id": "iw2GILQeJublu4HIUC9k8Q",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:38:10.677857Z",
+        "updatedAt": "2024-03-06T15:28:44.245847Z",
+        "enrichedAt": "2024-03-14T21:04:01.169357Z",
+        "latLon": {
+          "lat": 52.541138333463095,
+          "lon": 13.39053160936919
+        },
+        "title": "Seating area",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:seating ",
+          "Keyword:area",
+          "Keyword:2",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39053160936919,
+            52.541138333463095
+          ]
+        },
+        "keywords": [
+          "seating ",
+          "area",
+          "2",
+          "A"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "301d1971-266e-4b7d-9847-b7b474ad9e68",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d8d73f49-cb5b-473b-9448-be2648d01b5d",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/d8d73f49-cb5b-473b-9448-be2648d01b5d",
+            "thumbNail": {
+              "type": "Image",
+              "id": "fc9258dc-0118-43c2-b5d7-767c6e4d1f8f",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d8d73f49-cb5b-473b-9448-be2648d01b5d_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/d8d73f49-cb5b-473b-9448-be2648d01b5d_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:seating , Keyword:area, Keyword:2, Keyword:A, ObjectType:POI"
+      },
+      "score": 14.987187,
+      "distanceMeters": 14.582669517675635
+    },
+    {
+      "hit": {
+        "id": "xiuEKHejWRBzpvMp7Dli6Q",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:35:50.321639Z",
+        "updatedAt": "2024-03-06T14:11:42.946114Z",
+        "enrichedAt": "2024-03-14T21:04:00.264254Z",
+        "latLon": {
+          "lat": 52.54135664554448,
+          "lon": 13.390779213047608
+        },
+        "title": "Conference Room : Tallin",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:2",
+          "Keyword:B",
+          "Keyword:Tallin",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390779213047608,
+            52.54135664554448
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "2",
+          "B",
+          "Tallin"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "1ac7de20-8740-4743-9b53-ad41c182b328",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a70e9d52-6d0d-453c-b571-8e1cece31a35",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/a70e9d52-6d0d-453c-b571-8e1cece31a35",
+            "thumbNail": {
+              "type": "Image",
+              "id": "9f8eed79-a1fa-43be-b9c0-fefb3d242062",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a70e9d52-6d0d-453c-b571-8e1cece31a35_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/a70e9d52-6d0d-453c-b571-8e1cece31a35_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Tallin: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:2, Keyword:B, Keyword:Tallin, ObjectType:POI"
+      },
+      "score": 14.938621,
+      "distanceMeters": 17.040096593306863
+    },
+    {
+      "hit": {
+        "id": "dow7lB3n1I7p162xfMiLpA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:13:14.185603Z",
+        "updatedAt": "2024-03-06T13:51:03.000918Z",
+        "enrichedAt": "2024-03-14T21:04:00.187809Z",
+        "latLon": {
+          "lat": 52.54113541333774,
+          "lon": 13.390705664418647
+        },
+        "title": "Toilet : Women",
+        "tags": [
+          "IconCategory:GenderFemale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:Damen",
+          "Keyword:3",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390705664418647,
+            52.54113541333774
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "Damen",
+          "3",
+          "D"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderFemale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "90afc746-e1ee-4cf4-9d59-89e988ba2288",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a6777a50-2fd5-4bd4-86ea-1ee390e2360c",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/a6777a50-2fd5-4bd4-86ea-1ee390e2360c",
+            "thumbNail": {
+              "type": "Image",
+              "id": "dd75082f-4f5d-4745-8fc5-fb3e87cb867c",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/a6777a50-2fd5-4bd4-86ea-1ee390e2360c_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/a6777a50-2fd5-4bd4-86ea-1ee390e2360c_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Women: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:Damen, Keyword:3, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.937265,
+      "distanceMeters": 17.06835877198688
+    },
+    {
+      "hit": {
+        "id": "PCNyA-ADURVJLcHaTo_eZg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:42:44.831105Z",
+        "updatedAt": "2024-03-06T13:54:05.734216Z",
+        "enrichedAt": "2024-03-14T21:04:00.190736Z",
+        "latLon": {
+          "lat": 52.54113487644844,
+          "lon": 13.39071052079646
+        },
+        "title": "Toilet : Women",
+        "tags": [
+          "IconCategory:GenderFemale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:Damen",
+          "Keyword:2",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39071052079646,
+            52.54113487644844
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "Damen",
+          "2",
+          "D"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderFemale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "3a289dcc-37d0-4830-aed8-c82a9f4d327e",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/11e6c99b-6ae3-482d-b9df-a3ccb6b5d562",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/11e6c99b-6ae3-482d-b9df-a3ccb6b5d562",
+            "thumbNail": {
+              "type": "Image",
+              "id": "a9c03885-fde9-4b64-b3fd-62f05b8f618d",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/11e6c99b-6ae3-482d-b9df-a3ccb6b5d562_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/11e6c99b-6ae3-482d-b9df-a3ccb6b5d562_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Women: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:Damen, Keyword:2, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.933256,
+      "distanceMeters": 17.291145003188202
+    },
+    {
+      "hit": {
+        "id": "ugXfvg-caCEsa1GCxgAs-w",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:49:02.106484Z",
+        "updatedAt": "2024-03-06T15:27:51.994397Z",
+        "enrichedAt": "2024-03-14T21:04:01.168519Z",
+        "latLon": {
+          "lat": 52.54140091398443,
+          "lon": 13.390709453773411
+        },
+        "title": "Seating area",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:seating ",
+          "Keyword:area",
+          "Keyword:1",
+          "Keyword:C",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390709453773411,
+            52.54140091398443
+          ]
+        },
+        "keywords": [
+          "seating ",
+          "area",
+          "1",
+          "C"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "d3f4c3cf-9c57-42fe-a670-72498f4bdd57",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/918e593a-6edf-446f-9315-ba3cbcb53cd4",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/918e593a-6edf-446f-9315-ba3cbcb53cd4",
+            "thumbNail": {
+              "type": "Image",
+              "id": "c0b07fab-f8db-4603-ac9d-7483683df0f1",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/918e593a-6edf-446f-9315-ba3cbcb53cd4_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/918e593a-6edf-446f-9315-ba3cbcb53cd4_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:seating , Keyword:area, Keyword:1, Keyword:C, ObjectType:POI"
+      },
+      "score": 14.933223,
+      "distanceMeters": 17.464003187681495
+    },
+    {
+      "hit": {
+        "id": "ooy_jKorgPmu5lHiH_R6Zw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:03:32.447173Z",
+        "updatedAt": "2024-03-06T14:47:07.483197Z",
+        "enrichedAt": "2024-03-14T21:04:01.164950Z",
+        "latLon": {
+          "lat": 52.54115188605115,
+          "lon": 13.390753998071318
+        },
+        "title": "Toilet : Women",
+        "tags": [
+          "IconCategory:GenderFemale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:Damen",
+          "Keyword:1",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390753998071318,
+            52.54115188605115
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "Damen",
+          "1",
+          "D"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderFemale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "53f891bd-ea2c-4354-82c9-a6640cee8890",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/94bae8a7-d642-4187-acf2-64056c924f05",
+            "width": 768,
+            "height": 1024,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/94bae8a7-d642-4187-acf2-64056c924f05",
+            "thumbNail": {
+              "type": "Image",
+              "id": "5e3e45ab-e77e-4620-9a72-3a5cbbd71154",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/94bae8a7-d642-4187-acf2-64056c924f05_thmb",
+              "width": 225,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/94bae8a7-d642-4187-acf2-64056c924f05_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Women: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:Damen, Keyword:1, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.929268,
+      "distanceMeters": 17.594703086586392
+    },
+    {
+      "hit": {
+        "id": "YUAqKY7l-NqZITbp82fVvw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:02:37.272788Z",
+        "updatedAt": "2024-03-06T14:48:15.703993Z",
+        "enrichedAt": "2024-03-14T21:04:01.167271Z",
+        "latLon": {
+          "lat": 52.54112848319656,
+          "lon": 13.390711513108613
+        },
+        "title": "Community Kitchen 1D",
+        "tags": [
+          "IconCategory:Food",
+          "Color:GreenVibrant",
+          "Shape:Circle",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Community Kitchen",
+          "Keyword:1",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390711513108613,
+            52.54112848319656
+          ]
+        },
+        "keywords": [
+          "Community Kitchen",
+          "1",
+          "D"
+        ],
+        "color": "GreenVibrant",
+        "iconCategory": "Food",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nCommunity Kitchen 1D: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Community Kitchen, Keyword:1, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.923031,
+      "distanceMeters": 17.932551401534155
+    },
+    {
+      "hit": {
+        "id": "4wNw0bhQ-EZXR_MX2ASDJA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:36:52.096750Z",
+        "updatedAt": "2024-03-06T15:30:13.097675Z",
+        "enrichedAt": "2024-03-14T21:04:01.179002Z",
+        "latLon": {
+          "lat": 52.54110807247258,
+          "lon": 13.39048016177253
+        },
+        "title": "Seating area",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:seating ",
+          "Keyword:area",
+          "Keyword:3",
+          "Keyword:A",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39048016177253,
+            52.54110807247258
+          ]
+        },
+        "keywords": [
+          "seating ",
+          "area",
+          "3",
+          "A"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "454be179-28fb-4faf-bab7-c8866aff8763",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/78669ded-8943-44a6-87be-d2fb51ed84d0",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/78669ded-8943-44a6-87be-d2fb51ed84d0",
+            "thumbNail": {
+              "type": "Image",
+              "id": "1ad99f4c-f3fd-4183-99d1-d77cac68d7ba",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/78669ded-8943-44a6-87be-d2fb51ed84d0_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/78669ded-8943-44a6-87be-d2fb51ed84d0_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:seating , Keyword:area, Keyword:3, Keyword:A, ObjectType:POI"
+      },
+      "score": 14.908649,
+      "distanceMeters": 18.779617061310315
+    },
+    {
+      "hit": {
+        "id": "UfXAJmziRnxhxSTcTIalzQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:12:39.098973Z",
+        "updatedAt": "2024-03-06T13:51:49.561689Z",
+        "enrichedAt": "2024-03-14T21:04:00.188133Z",
+        "latLon": {
+          "lat": 52.54111908466922,
+          "lon": 13.390721779140677
+        },
+        "title": "Toilet : Men",
+        "tags": [
+          "IconCategory:GenderMale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Herren",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:3",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390721779140677,
+            52.54111908466922
+          ]
+        },
+        "keywords": [
+          "Herren",
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "3",
+          "D"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderMale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "7aaa3c0b-dcc9-497a-99b9-b24d55867cad",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/40c6da0f-2a70-4862-8281-03245dd9b102",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/40c6da0f-2a70-4862-8281-03245dd9b102",
+            "thumbNail": {
+              "type": "Image",
+              "id": "a92a9d68-ef93-4718-b7db-85a8b5b48a1a",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/40c6da0f-2a70-4862-8281-03245dd9b102_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/40c6da0f-2a70-4862-8281-03245dd9b102_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Men: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Herren, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:3, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.897906,
+      "distanceMeters": 19.185969371014433
+    },
+    {
+      "hit": {
+        "id": "DRXhxJgszdIznaM7-mTqoQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:46:34.443603Z",
+        "updatedAt": "2024-03-06T15:26:42.628946Z",
+        "enrichedAt": "2024-03-14T21:04:01.168264Z",
+        "latLon": {
+          "lat": 52.54110000169055,
+          "lon": 13.39066029518483
+        },
+        "title": "Seating area ",
+        "tags": [
+          "IconCategory:Location",
+          "Color:BlueLavender",
+          "Shape:Circle",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:1",
+          "Keyword:D",
+          "Keyword:Seating ",
+          "Keyword:Area",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39066029518483,
+            52.54110000169055
+          ]
+        },
+        "keywords": [
+          "1",
+          "D",
+          "Seating ",
+          "Area"
+        ],
+        "color": "BlueLavender",
+        "iconCategory": "Location",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "9ae4e0f4-529b-4f87-a41e-e31b27c29dfe",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d058a575-6707-4bf3-b363-4127ac9b43f2",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/d058a575-6707-4bf3-b363-4127ac9b43f2",
+            "thumbNail": {
+              "type": "Image",
+              "id": "6b859451-c4d2-4764-9a09-24ddf8a9e915",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d058a575-6707-4bf3-b363-4127ac9b43f2_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/d058a575-6707-4bf3-b363-4127ac9b43f2_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nSeating area : FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:1, Keyword:D, Keyword:Seating , Keyword:Area, ObjectType:POI"
+      },
+      "score": 14.896635,
+      "distanceMeters": 19.419229495504286
+    },
+    {
+      "hit": {
+        "id": "xX2Rmudr67NMeIJoRwasXA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:04:09.885098Z",
+        "updatedAt": "2024-03-06T14:04:10.594533Z",
+        "enrichedAt": "2024-03-14T21:04:00.239355Z",
+        "latLon": {
+          "lat": 52.54111948419299,
+          "lon": 13.390726254085962
+        },
+        "title": "Toilet : Men",
+        "tags": [
+          "IconCategory:GenderMale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Herren",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:D",
+          "Keyword:2",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390726254085962,
+            52.54111948419299
+          ]
+        },
+        "keywords": [
+          "Herren",
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "D",
+          "2"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderMale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "4b956cda-d867-401b-bc99-ab89a35e9835",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/159b418e-6454-4ddd-af1b-6d86558fb4d5",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/159b418e-6454-4ddd-af1b-6d86558fb4d5",
+            "thumbNail": {
+              "type": "Image",
+              "id": "46b2564a-329c-44af-9760-7909fc4515cf",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/159b418e-6454-4ddd-af1b-6d86558fb4d5_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/159b418e-6454-4ddd-af1b-6d86558fb4d5_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Men: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Herren, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:D, Keyword:2, ObjectType:POI"
+      },
+      "score": 14.896008,
+      "distanceMeters": 19.306454427598414
+    },
+    {
+      "hit": {
+        "id": "i8g4XIYmn0fEW37WL8UnRg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:04:45.852758Z",
+        "updatedAt": "2024-03-06T14:46:40.389660Z",
+        "enrichedAt": "2024-03-14T21:04:00.435469Z",
+        "latLon": {
+          "lat": 52.541133279725614,
+          "lon": 13.390767196770412
+        },
+        "title": "Toilet : Men",
+        "tags": [
+          "IconCategory:GenderMale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Herren",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:1",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390767196770412,
+            52.541133279725614
+          ]
+        },
+        "keywords": [
+          "Herren",
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "1",
+          "D"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderMale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "239e7de6-7771-4220-81fd-680281f85006",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/e253705d-f43a-4fd1-980b-47f6eb72f4d5",
+            "width": 768,
+            "height": 1024,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/e253705d-f43a-4fd1-980b-47f6eb72f4d5",
+            "thumbNail": {
+              "type": "Image",
+              "id": "5b7a4cc2-babc-4ccb-b342-c83ce634fc55",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/e253705d-f43a-4fd1-980b-47f6eb72f4d5_thmb",
+              "width": 225,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/e253705d-f43a-4fd1-980b-47f6eb72f4d5_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Men: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Herren, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:1, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.889669,
+      "distanceMeters": 19.725921667874506
+    },
+    {
+      "hit": {
+        "id": "pWm4DVdTWwXTUzndaCJ6yg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:34:11.024861Z",
+        "updatedAt": "2024-03-06T13:55:00.846885Z",
+        "enrichedAt": "2024-03-14T21:04:00.191298Z",
+        "latLon": {
+          "lat": 52.54139533435128,
+          "lon": 13.390799306536678
+        },
+        "title": "Toilet",
+        "tags": [
+          "IconCategory:Toilet",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:2",
+          "Keyword:B",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390799306536678,
+            52.54139533435128
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "2",
+          "B"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "Toilet",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "55afb9df-4875-4250-ae43-8a3bc0dcd39a",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d091c30e-85ba-4ebb-80a6-d20d6c4abaa6",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/d091c30e-85ba-4ebb-80a6-d20d6c4abaa6",
+            "thumbNail": {
+              "type": "Image",
+              "id": "f3e30e6f-21b1-4db8-9318-bfcf5b49dc06",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/d091c30e-85ba-4ebb-80a6-d20d6c4abaa6_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/d091c30e-85ba-4ebb-80a6-d20d6c4abaa6_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:2, Keyword:B, ObjectType:POI"
+      },
+      "score": 14.86755,
+      "distanceMeters": 20.837596011590787
+    },
+    {
+      "hit": {
+        "id": "r3UcgNXut6MK0iNU_wvxuw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:17:10.455985Z",
+        "updatedAt": "2024-03-06T14:20:23.130205Z",
+        "enrichedAt": "2024-03-14T21:04:00.340311Z",
+        "latLon": {
+          "lat": 52.54118162050008,
+          "lon": 13.390879244034522
+        },
+        "title": "FORMATION GmbH",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:FORMATION",
+          "Keyword:3",
+          "Keyword:C",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390879244034522,
+            52.54118162050008
+          ]
+        },
+        "keywords": [
+          "FORMATION",
+          "3",
+          "C"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nFORMATION GmbH: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:FORMATION, Keyword:3, Keyword:C, ObjectType:POI"
+      },
+      "score": 14.835145,
+      "distanceMeters": 22.642907651334593
+    },
+    {
+      "hit": {
+        "id": "O9JDuaebw-nFlPsCqRRwqA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:46:41.540964Z",
+        "updatedAt": "2024-03-06T13:50:09.256430Z",
+        "enrichedAt": "2024-03-14T21:04:00.186717Z",
+        "latLon": {
+          "lat": 52.541097027007,
+          "lon": 13.390762351978083
+        },
+        "title": "Printer 3D",
+        "tags": [
+          "IconCategory:Printer",
+          "Color:Yellow",
+          "Shape:Diamond",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Printer",
+          "Keyword:Drucker",
+          "Keyword:3",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390762351978083,
+            52.541097027007
+          ]
+        },
+        "keywords": [
+          "Printer",
+          "Drucker",
+          "3",
+          "D"
+        ],
+        "color": "Yellow",
+        "iconCategory": "Printer",
+        "shape": "Diamond",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "f9603ac0-592f-42b2-91fe-1bcdbd2e600b",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/0c2c0da6-3300-42b7-818e-86b89e8be27d",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/0c2c0da6-3300-42b7-818e-86b89e8be27d",
+            "thumbNail": {
+              "type": "Image",
+              "id": "1b83df4c-2532-4c41-98ca-93a762727919",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/0c2c0da6-3300-42b7-818e-86b89e8be27d_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/0c2c0da6-3300-42b7-818e-86b89e8be27d_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nPrinter 3D: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Printer, Keyword:Drucker, Keyword:3, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.832522,
+      "distanceMeters": 22.72969563633626
+    },
+    {
+      "hit": {
+        "id": "urOuykdFeMGjAPq_ycFo-A",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:29:47.770413Z",
+        "updatedAt": "2024-03-06T14:29:47.770413Z",
+        "enrichedAt": "2024-03-14T21:04:00.392085Z",
+        "latLon": {
+          "lat": 52.541185402385736,
+          "lon": 13.390250932996878
+        },
+        "title": "R23",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:23",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390250932996878,
+            52.541185402385736
+          ]
+        },
+        "keywords": [
+          "R",
+          "23"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR23: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:23, ObjectType:POI"
+      },
+      "score": 14.815769,
+      "distanceMeters": 23.717624328061827
+    },
+    {
+      "hit": {
+        "id": "aqt_5pUksvpCHybGtltbZQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:29:30.166578Z",
+        "updatedAt": "2024-03-06T14:29:30.166578Z",
+        "enrichedAt": "2024-03-14T21:04:00.396705Z",
+        "latLon": {
+          "lat": 52.54123615730933,
+          "lon": 13.390216497447454
+        },
+        "title": "R24",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:24",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390216497447454,
+            52.54123615730933
+          ]
+        },
+        "keywords": [
+          "R",
+          "24"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR24: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:24, ObjectType:POI"
+      },
+      "score": 14.801689,
+      "distanceMeters": 24.490226250055233
+    },
+    {
+      "hit": {
+        "id": "rwhu6U8LhzDr1-L1g8ZniA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:43:38.885393Z",
+        "updatedAt": "2024-03-06T14:18:46.275927Z",
+        "enrichedAt": "2024-03-14T21:04:00.294810Z",
+        "latLon": {
+          "lat": 52.541068845475195,
+          "lon": 13.390752991186673
+        },
+        "title": "Event Space ",
+        "tags": [
+          "IconCategory:Megaphone",
+          "Color:AquaMarine",
+          "Shape:Square",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:2",
+          "Keyword:D",
+          "Keyword:Event",
+          "Keyword:Space",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390752991186673,
+            52.541068845475195
+          ]
+        },
+        "keywords": [
+          "2",
+          "D",
+          "Event",
+          "Space"
+        ],
+        "color": "AquaMarine",
+        "iconCategory": "Megaphone",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "4b8c3ffa-3778-4832-9186-012c320b65ea",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/1b5a2d51-f5db-4533-9ea5-0e011d054e87",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/1b5a2d51-f5db-4533-9ea5-0e011d054e87",
+            "thumbNail": {
+              "type": "Image",
+              "id": "eb85e619-c3b4-40cb-8a2b-7b97c9c0daf1",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/1b5a2d51-f5db-4533-9ea5-0e011d054e87_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/1b5a2d51-f5db-4533-9ea5-0e011d054e87_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nEvent Space : FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:2, Keyword:D, Keyword:Event, Keyword:Space, ObjectType:POI"
+      },
+      "score": 14.790596,
+      "distanceMeters": 25.0824263700693
+    },
+    {
+      "hit": {
+        "id": "4nrQDGFMyqZcHr-v-Mdb3g",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:19:38.992603Z",
+        "updatedAt": "2024-03-06T14:20:08.372965Z",
+        "enrichedAt": "2024-03-14T21:04:00.308974Z",
+        "latLon": {
+          "lat": 52.541261190906255,
+          "lon": 13.390967581056884
+        },
+        "title": "EWOR",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:EWOR",
+          "Keyword:3",
+          "Keyword:C",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390967581056884,
+            52.541261190906255
+          ]
+        },
+        "keywords": [
+          "EWOR",
+          "3",
+          "C"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nEWOR: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:EWOR, Keyword:3, Keyword:C, ObjectType:POI"
+      },
+      "score": 14.764173,
+      "distanceMeters": 26.54896967593378
+    },
+    {
+      "hit": {
+        "id": "IReNqBXlNiXW7eSSyzuYvw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:01:01.253828Z",
+        "updatedAt": "2024-03-06T14:46:11.298828Z",
+        "enrichedAt": "2024-03-14T21:04:00.435815Z",
+        "latLon": {
+          "lat": 52.54104523062031,
+          "lon": 13.39072570453959
+        },
+        "title": "Conference Room : Kingston",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Kingston",
+          "Keyword:1",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39072570453959,
+            52.54104523062031
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Kingston",
+          "1",
+          "D"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "d262df0f-6592-4f5a-b32b-be999a086881",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/cb87d4de-f1cc-4b8b-8d3a-a5a199b6366b",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/cb87d4de-f1cc-4b8b-8d3a-a5a199b6366b",
+            "thumbNail": {
+              "type": "Image",
+              "id": "fcad240c-2993-4702-a4f6-2697a3bc8fec",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/cb87d4de-f1cc-4b8b-8d3a-a5a199b6366b_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/cb87d4de-f1cc-4b8b-8d3a-a5a199b6366b_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Kingston: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Kingston, Keyword:1, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.763077,
+      "distanceMeters": 26.657438930203476
+    },
+    {
+      "hit": {
+        "id": "Uj8LWFiVBeKdE7Hn00kS5g",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:58:23.615419Z",
+        "updatedAt": "2024-03-06T13:58:24.949752Z",
+        "enrichedAt": "2024-03-14T21:04:00.204137Z",
+        "latLon": {
+          "lat": 52.541237646027014,
+          "lon": 13.390175619780052
+        },
+        "title": "Printer 2C",
+        "tags": [
+          "IconCategory:Printer",
+          "Color:Yellow",
+          "Shape:Diamond",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Printer",
+          "Keyword:Drucker",
+          "Keyword:2",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390175619780052,
+            52.541237646027014
+          ]
+        },
+        "keywords": [
+          "Printer",
+          "Drucker",
+          "2"
+        ],
+        "color": "Yellow",
+        "iconCategory": "Printer",
+        "shape": "Diamond",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "a22e95bb-55fb-41b1-a4ce-d86f55093cc3",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/fa0f1ac5-cbc2-492d-91d2-0d9b097d6637",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/fa0f1ac5-cbc2-492d-91d2-0d9b097d6637",
+            "thumbNail": {
+              "type": "Image",
+              "id": "c60a6e79-f5bc-47ef-b177-e5d94439fd76",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/fa0f1ac5-cbc2-492d-91d2-0d9b097d6637_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/fa0f1ac5-cbc2-492d-91d2-0d9b097d6637_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nPrinter 2C: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Printer, Keyword:Drucker, Keyword:2, ObjectType:POI"
+      },
+      "score": 14.751455,
+      "distanceMeters": 27.210339502369564
+    },
+    {
+      "hit": {
+        "id": "PQJavS6ew1iZ9iGxWv1Dtw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:25:47.312472Z",
+        "updatedAt": "2024-03-06T14:31:44.264010Z",
+        "enrichedAt": "2024-03-14T21:04:00.402184Z",
+        "latLon": {
+          "lat": 52.541074653811165,
+          "lon": 13.390827380564133
+        },
+        "title": "Conference Room : Liverpool",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:IDbTJjW9lAf26foHELkxkw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:IDbTJjW9lAf26foHELkxkw",
+          "FloorLevel:3.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Liverpool",
+          "Keyword:3",
+          "Keyword:D",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "IDbTJjW9lAf26foHELkxkw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390827380564133,
+            52.541074653811165
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Liverpool",
+          "3",
+          "D"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "e9ef25f5-e8fc-4f73-9ddb-e82f14eaf39b",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/525eff7f-a20b-4a46-b068-2d0367cfddf3",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/525eff7f-a20b-4a46-b068-2d0367cfddf3",
+            "thumbNail": {
+              "type": "Image",
+              "id": "181b86d8-6451-4fd7-b7a4-3b6f631414d9",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/525eff7f-a20b-4a46-b068-2d0367cfddf3_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/525eff7f-a20b-4a46-b068-2d0367cfddf3_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nConference Room : Liverpool: FloorLevel:3.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Liverpool, Keyword:3, Keyword:D, ObjectType:POI"
+      },
+      "score": 14.750327,
+      "distanceMeters": 27.339712261180154
+    },
+    {
+      "hit": {
+        "id": "Aw3XEq36RXTfhx4bovxyzA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:29:09.683469Z",
+        "updatedAt": "2024-03-06T14:29:09.683469Z",
+        "enrichedAt": "2024-03-14T21:04:00.387235Z",
+        "latLon": {
+          "lat": 52.541293384993025,
+          "lon": 13.390161234392508
+        },
+        "title": "R25",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:25",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390161234392508,
+            52.541293384993025
+          ]
+        },
+        "keywords": [
+          "R",
+          "25"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR25: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:25, ObjectType:POI"
+      },
+      "score": 14.735743,
+      "distanceMeters": 28.145499158314955
+    },
+    {
+      "hit": {
+        "id": "QcOZly0trLFJACN0oxT-sw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:57:16.793035Z",
+        "updatedAt": "2024-03-06T13:57:50.758978Z",
+        "enrichedAt": "2024-03-14T21:04:00.203851Z",
+        "latLon": {
+          "lat": 52.54108487215737,
+          "lon": 13.390285105213934
+        },
+        "title": "Toilet : Women",
+        "tags": [
+          "IconCategory:GenderFemale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:Damen",
+          "Keyword:2",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390285105213934,
+            52.54108487215737
+          ]
+        },
+        "keywords": [
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "Damen",
+          "2"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderFemale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "5fe67c7d-4151-4f24-aabb-65835b35a7c8",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/86a80bcc-79c0-48bb-8bd9-fd9d1fbc74bb",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/86a80bcc-79c0-48bb-8bd9-fd9d1fbc74bb",
+            "thumbNail": {
+              "type": "Image",
+              "id": "33a194fd-41ed-4e64-88c1-ef409e5f1e8f",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/86a80bcc-79c0-48bb-8bd9-fd9d1fbc74bb_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/86a80bcc-79c0-48bb-8bd9-fd9d1fbc74bb_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Women: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:Damen, Keyword:2, ObjectType:POI"
+      },
+      "score": 14.7340765,
+      "distanceMeters": 28.174495067577713
+    },
+    {
+      "hit": {
+        "id": "CjFMvUV0Xr-DsZmX1xc0_g",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:01:24.727489Z",
+        "updatedAt": "2024-03-06T14:46:53.367097Z",
+        "enrichedAt": "2024-03-14T21:04:01.165570Z",
+        "latLon": {
+          "lat": 52.541070561866746,
+          "lon": 13.390876356930448
+        },
+        "title": "Conference Room : Acapulco",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:LightBlueAlt",
+          "Shape:Square",
+          "ConnectedTo:-HN8FcwaRyS7co7XIeIshw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:-HN8FcwaRyS7co7XIeIshw",
+          "FloorLevel:1.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Conference Room",
+          "Keyword:Kingston",
+          "Keyword:1",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "-HN8FcwaRyS7co7XIeIshw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390876356930448,
+            52.541070561866746
+          ]
+        },
+        "keywords": [
+          "Conference Room",
+          "Kingston",
+          "1"
+        ],
+        "color": "LightBlueAlt",
+        "iconCategory": "MeetingRoom",
+        "shape": "Square",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nConference Room : Acapulco: FloorLevel:1.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Conference Room, Keyword:Kingston, Keyword:1, ObjectType:POI"
+      },
+      "score": 14.705891,
+      "distanceMeters": 29.851154190962973
+    },
+    {
+      "hit": {
+        "id": "qT_G7pnuQeZSJX8AElY17Q",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:57:00.936230Z",
+        "updatedAt": "2024-03-06T13:57:02.028458Z",
+        "enrichedAt": "2024-03-14T21:04:00.197644Z",
+        "latLon": {
+          "lat": 52.54104991570122,
+          "lon": 13.390315884516326
+        },
+        "title": "Toilet : Men",
+        "tags": [
+          "IconCategory:GenderMale",
+          "Color:OrangeAmber",
+          "Shape:TriangleUp",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Herren",
+          "Keyword:Bathroom",
+          "Keyword:Toilette",
+          "Keyword:Toilet",
+          "Keyword:2",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390315884516326,
+            52.54104991570122
+          ]
+        },
+        "keywords": [
+          "Herren",
+          "Bathroom",
+          "Toilette",
+          "Toilet",
+          "2"
+        ],
+        "color": "OrangeAmber",
+        "iconCategory": "GenderMale",
+        "shape": "TriangleUp",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "59e5702a-42d1-41b7-9066-9ca07dd675c2",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/9aef6d4c-3f38-4f40-97b5-113a8efc7e50",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/9aef6d4c-3f38-4f40-97b5-113a8efc7e50",
+            "thumbNail": {
+              "type": "Image",
+              "id": "53d12e76-46b3-4db3-82fc-cd4655d5042e",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/9aef6d4c-3f38-4f40-97b5-113a8efc7e50_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/9aef6d4c-3f38-4f40-97b5-113a8efc7e50_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nToilet : Men: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Herren, Keyword:Bathroom, Keyword:Toilette, Keyword:Toilet, Keyword:2, ObjectType:POI"
+      },
+      "score": 14.704823,
+      "distanceMeters": 29.81346292904488
+    },
+    {
+      "hit": {
+        "id": "65qKRA6En8oNhoHMYKORfQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:45:50.439969Z",
+        "updatedAt": "2024-03-06T13:52:27.324440Z",
+        "enrichedAt": "2024-03-14T21:04:00.189700Z",
+        "latLon": {
+          "lat": 52.54118246799234,
+          "lon": 13.391000015616555
+        },
+        "title": "Printer 2C",
+        "tags": [
+          "IconCategory:Printer",
+          "Color:Yellow",
+          "Shape:Diamond",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Printer",
+          "Keyword:Drucker",
+          "Keyword:2",
+          "Keyword:C",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.391000015616555,
+            52.54118246799234
+          ]
+        },
+        "keywords": [
+          "Printer",
+          "Drucker",
+          "2",
+          "C"
+        ],
+        "color": "Yellow",
+        "iconCategory": "Printer",
+        "shape": "Diamond",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "cd4a2a06-f2ca-4bc5-85ff-506750bf11d3",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/960ab6e6-f2c3-4571-8b56-b3a650267e7f",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/960ab6e6-f2c3-4571-8b56-b3a650267e7f",
+            "thumbNail": {
+              "type": "Image",
+              "id": "de63922b-ae8d-4179-921b-bfe5d7b9e23d",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/960ab6e6-f2c3-4571-8b56-b3a650267e7f_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/960ab6e6-f2c3-4571-8b56-b3a650267e7f_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nPrinter 2C: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Printer, Keyword:Drucker, Keyword:2, Keyword:C, ObjectType:POI"
+      },
+      "score": 14.697389,
+      "distanceMeters": 30.22592871901425
+    },
+    {
+      "hit": {
+        "id": "sgyd3lwnekb2uZ0VoayFLA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:25:07.575300Z",
+        "updatedAt": "2024-03-06T14:25:07.575300Z",
+        "enrichedAt": "2024-03-14T21:04:00.325161Z",
+        "latLon": {
+          "lat": 52.5411302485698,
+          "lon": 13.39016981015152
+        },
+        "title": "R20",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:20",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39016981015152,
+            52.5411302485698
+          ]
+        },
+        "keywords": [
+          "R",
+          "20"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR20: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:20, ObjectType:POI"
+      },
+      "score": 14.678757,
+      "distanceMeters": 31.33335871895911
+    },
+    {
+      "hit": {
+        "id": "D_gCpkJtsePmWcgh29NCcw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:25:34.581252Z",
+        "updatedAt": "2024-03-06T14:25:34.581252Z",
+        "enrichedAt": "2024-03-14T21:04:00.329638Z",
+        "latLon": {
+          "lat": 52.54118082756014,
+          "lon": 13.390128666403712
+        },
+        "title": "R19",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:19",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390128666403712,
+            52.54118082756014
+          ]
+        },
+        "keywords": [
+          "R",
+          "19"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR19: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:19, ObjectType:POI"
+      },
+      "score": 14.672831,
+      "distanceMeters": 31.66883505965343
+    },
+    {
+      "hit": {
+        "id": "0iTuq5Me-9J3rTGE7JkYJQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:24:54.485918Z",
+        "updatedAt": "2024-03-06T14:24:54.485918Z",
+        "enrichedAt": "2024-03-14T21:04:00.319759Z",
+        "latLon": {
+          "lat": 52.54108502083372,
+          "lon": 13.390202985876158
+        },
+        "title": "R21",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:21",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390202985876158,
+            52.54108502083372
+          ]
+        },
+        "keywords": [
+          "R",
+          "21"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR21: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:21, ObjectType:POI"
+      },
+      "score": 14.662084,
+      "distanceMeters": 32.277147631522354
+    },
+    {
+      "hit": {
+        "id": "ZTjOIPHxmBWJ6Sp7XA9apA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:25:46.426117Z",
+        "updatedAt": "2024-03-06T14:25:46.426117Z",
+        "enrichedAt": "2024-03-14T21:04:00.309412Z",
+        "latLon": {
+          "lat": 52.5412282120318,
+          "lon": 13.390091024281219
+        },
+        "title": "R18",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:18",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390091024281219,
+            52.5412282120318
+          ]
+        },
+        "keywords": [
+          "R",
+          "18"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR18: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:18, ObjectType:POI"
+      },
+      "score": 14.649059,
+      "distanceMeters": 33.01750822948024
+    },
+    {
+      "hit": {
+        "id": "TFmilYtJfggbNtIJI_5CMw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:24:35.069438Z",
+        "updatedAt": "2024-03-06T14:24:35.069438Z",
+        "enrichedAt": "2024-03-14T21:04:00.314836Z",
+        "latLon": {
+          "lat": 52.54103629246285,
+          "lon": 13.390242806059177
+        },
+        "title": "R22",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:22",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390242806059177,
+            52.54103629246285
+          ]
+        },
+        "keywords": [
+          "R",
+          "22"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR22: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:22, ObjectType:POI"
+      },
+      "score": 14.630221,
+      "distanceMeters": 34.0866903250423
+    },
+    {
+      "hit": {
+        "id": "tVHjt9QtcSVbDRgvpB8g7Q",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:28:53.987300Z",
+        "updatedAt": "2024-03-06T14:28:53.987300Z",
+        "enrichedAt": "2024-03-14T21:04:00.383671Z",
+        "latLon": {
+          "lat": 52.5413785858137,
+          "lon": 13.390091585689788
+        },
+        "title": "R26",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:26",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390091585689788,
+            52.5413785858137
+          ]
+        },
+        "keywords": [
+          "R",
+          "26"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR26: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:26, ObjectType:POI"
+      },
+      "score": 14.614731,
+      "distanceMeters": 34.98327724041657
+    },
+    {
+      "hit": {
+        "id": "g0_pZ-QP5J7tik4OjMMu5A",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:25:58.190000Z",
+        "updatedAt": "2024-03-06T14:25:58.190000Z",
+        "enrichedAt": "2024-03-14T21:04:00.334437Z",
+        "latLon": {
+          "lat": 52.54128036938829,
+          "lon": 13.390050755947186
+        },
+        "title": "R17",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:17",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390050755947186,
+            52.54128036938829
+          ]
+        },
+        "keywords": [
+          "R",
+          "17"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR17: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:17, ObjectType:POI"
+      },
+      "score": 14.605742,
+      "distanceMeters": 35.493185012310285
+    },
+    {
+      "hit": {
+        "id": "mkyOoU8Odmz4UcWHnXGNHw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:26:16.206797Z",
+        "updatedAt": "2024-03-06T14:26:16.206797Z",
+        "enrichedAt": "2024-03-14T21:04:00.351142Z",
+        "latLon": {
+          "lat": 52.54131522732672,
+          "lon": 13.390023606054797
+        },
+        "title": "R16",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:16",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390023606054797,
+            52.54131522732672
+          ]
+        },
+        "keywords": [
+          "R",
+          "16"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR16: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:16, ObjectType:POI"
+      },
+      "score": 14.567698,
+      "distanceMeters": 37.684092925355564
+    },
+    {
+      "hit": {
+        "id": "B4mXIyugigu6Lb3KRv-9OA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:26:41.005413Z",
+        "updatedAt": "2024-03-06T14:26:41.005413Z",
+        "enrichedAt": "2024-03-14T21:04:00.355742Z",
+        "latLon": {
+          "lat": 52.541338120892874,
+          "lon": 13.39000657771794
+        },
+        "title": "M.C.",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:M",
+          "Keyword:C",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.39000657771794,
+            52.541338120892874
+          ]
+        },
+        "keywords": [
+          "M",
+          "C"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nM.C.: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:M, Keyword:C, ObjectType:POI"
+      },
+      "score": 14.540491,
+      "distanceMeters": 39.25843064172232
+    },
+    {
+      "hit": {
+        "id": "50s5T33Hq9k9RCajwCmJbg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:26:58.459095Z",
+        "updatedAt": "2024-03-06T14:26:58.459095Z",
+        "enrichedAt": "2024-03-14T21:04:00.360353Z",
+        "latLon": {
+          "lat": 52.54137669446655,
+          "lon": 13.389975493937413
+        },
+        "title": "R14",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:14",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389975493937413,
+            52.54137669446655
+          ]
+        },
+        "keywords": [
+          "R",
+          "14"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR14: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:14, ObjectType:POI"
+      },
+      "score": 14.487674,
+      "distanceMeters": 42.35250478260351
+    },
+    {
+      "hit": {
+        "id": "cR5o061rESdGRF8fm-Ra0A",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T13:59:24.195327Z",
+        "updatedAt": "2024-03-06T13:59:48.124800Z",
+        "enrichedAt": "2024-03-14T21:04:00.225863Z",
+        "latLon": {
+          "lat": 52.541452158866235,
+          "lon": 13.390002773511128
+        },
+        "title": "Community Kitchen 2",
+        "tags": [
+          "IconCategory:Food",
+          "Color:GreenVibrant",
+          "Shape:Circle",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:Community Kitchen",
+          "Keyword:2",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390002773511128,
+            52.541452158866235
+          ]
+        },
+        "keywords": [
+          "Community Kitchen",
+          "2"
+        ],
+        "color": "GreenVibrant",
+        "iconCategory": "Food",
+        "shape": "Circle",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Image",
+            "id": "8477fc59-c49d-48e6-90e9-f50ebb4e5fd7",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/5ae6ea78-66a7-4374-9e2a-a6a0f16819fb",
+            "width": 1024,
+            "height": 768,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/5ae6ea78-66a7-4374-9e2a-a6a0f16819fb",
+            "thumbNail": {
+              "type": "Image",
+              "id": "008d9578-2b28-404f-a372-694bd1b8cfe8",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/5ae6ea78-66a7-4374-9e2a-a6a0f16819fb_thmb",
+              "width": 300,
+              "height": 225,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/5ae6ea78-66a7-4374-9e2a-a6a0f16819fb_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/jpeg",
+            "title": ""
+          }
+        ],
+        "page_content": "Name: \nCommunity Kitchen 2: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:Community Kitchen, Keyword:2, ObjectType:POI"
+      },
+      "score": 14.461339,
+      "distanceMeters": 43.852479067124904
+    },
+    {
+      "hit": {
+        "id": "S99mmucBw78W-9B4XXdW4Q",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:27:12.500131Z",
+        "updatedAt": "2024-03-06T14:27:12.500131Z",
+        "enrichedAt": "2024-03-14T21:04:00.340585Z",
+        "latLon": {
+          "lat": 52.541412631976584,
+          "lon": 13.389950890419414
+        },
+        "title": "R13",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:13",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389950890419414,
+            52.541412631976584
+          ]
+        },
+        "keywords": [
+          "R",
+          "13"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR13: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:13, ObjectType:POI"
+      },
+      "score": 14.439123,
+      "distanceMeters": 45.22268007582409
+    },
+    {
+      "hit": {
+        "id": "d5uyfahO7dBiuk1uHLOyxg",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:27:32.933651Z",
+        "updatedAt": "2024-03-06T14:27:32.933651Z",
+        "enrichedAt": "2024-03-14T21:04:00.365691Z",
+        "latLon": {
+          "lat": 52.54143627910571,
+          "lon": 13.38993124955664
+        },
+        "title": "R12",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:12",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.38993124955664,
+            52.54143627910571
+          ]
+        },
+        "keywords": [
+          "R",
+          "12"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR12: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:12, ObjectType:POI"
+      },
+      "score": 14.401917,
+      "distanceMeters": 47.446808982751826
+    },
+    {
+      "hit": {
+        "id": "8kzy5jXRH6fi8JxBVpPd1w",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:27:45.691004Z",
+        "updatedAt": "2024-03-06T14:27:45.691004Z",
+        "enrichedAt": "2024-03-14T21:04:00.369262Z",
+        "latLon": {
+          "lat": 52.54146050174495,
+          "lon": 13.389911859196673
+        },
+        "title": "R11",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:11",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389911859196673,
+            52.54146050174495
+          ]
+        },
+        "keywords": [
+          "R",
+          "11"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR11: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:11, ObjectType:POI"
+      },
+      "score": 14.363465,
+      "distanceMeters": 49.75839345807374
+    },
+    {
+      "hit": {
+        "id": "7SFiyKiSx7r327JuCWyjaw",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:28:34.357081Z",
+        "updatedAt": "2024-03-06T14:28:34.357081Z",
+        "enrichedAt": "2024-03-14T21:04:00.378291Z",
+        "latLon": {
+          "lat": 52.54153606751831,
+          "lon": 13.389972673524198
+        },
+        "title": "R8",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:8",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389972673524198,
+            52.54153606751831
+          ]
+        },
+        "keywords": [
+          "R",
+          "8"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR8: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:8, ObjectType:POI"
+      },
+      "score": 14.350283,
+      "distanceMeters": 50.56143607544461
+    },
+    {
+      "hit": {
+        "id": "E7Frv6hPdxGKdsojpQTriA",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:28:18.735728Z",
+        "updatedAt": "2024-03-06T14:28:18.735728Z",
+        "enrichedAt": "2024-03-14T21:04:00.373909Z",
+        "latLon": {
+          "lat": 52.54152490881552,
+          "lon": 13.389916287055826
+        },
+        "title": "R9",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:9",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389916287055826,
+            52.54152490881552
+          ]
+        },
+        "keywords": [
+          "R",
+          "9"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR9: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:9, ObjectType:POI"
+      },
+      "score": 14.310197,
+      "distanceMeters": 52.99952462927918
+    },
+    {
+      "hit": {
+        "id": "h6Ii_mxHjk6mZWcKyTAUZQ",
+        "ownerId": "HXS2x3Mlc2Il-tqcjDiXig",
+        "objectType": "POI",
+        "createdAt": "2024-03-06T14:27:58.469434Z",
+        "updatedAt": "2024-03-06T14:27:58.469434Z",
+        "enrichedAt": "2024-03-14T21:04:00.346176Z",
+        "latLon": {
+          "lat": 52.541498400450934,
+          "lon": 13.389870316362703
+        },
+        "title": "R10",
+        "tags": [
+          "IconCategory:OfficeDesk",
+          "Color:DarkOrange",
+          "Shape:Egg",
+          "ConnectedTo:yipsrbfPZpXV0XmGaleLhw",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "ConnectedObjectType:Floor",
+          "BuildingId:XHmItfPQNQVSJ4TIqVC0Xw",
+          "FloorId:yipsrbfPZpXV0XmGaleLhw",
+          "FloorLevel:2.0",
+          "Outdoor:false",
+          "OwnerId:HXS2x3Mlc2Il-tqcjDiXig",
+          "Keyword:R",
+          "Keyword:10",
+          "ObjectType:POI",
+          "Creator:HXS2x3Mlc2Il-tqcjDiXig:Ratul Pradhan"
+        ],
+        "connectedTo": "yipsrbfPZpXV0XmGaleLhw",
+        "canModify": true,
+        "canManage": true,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389870316362703,
+            52.541498400450934
+          ]
+        },
+        "keywords": [
+          "R",
+          "10"
+        ],
+        "color": "DarkOrange",
+        "iconCategory": "OfficeDesk",
+        "shape": "Egg",
+        "updatedBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "createdBy": "HXS2x3Mlc2Il-tqcjDiXig",
+        "owner": {
+          "userId": "HXS2x3Mlc2Il-tqcjDiXig",
+          "firstName": "Ratul",
+          "lastName": "Pradhan"
+        },
+        "deleted": false,
+        "page_content": "Name: \nR10: FloorLevel:2.0, Outdoor:false, OwnerId:HXS2x3Mlc2Il-tqcjDiXig, Keyword:R, Keyword:10, ObjectType:POI"
+      },
+      "score": 14.29099,
+      "distanceMeters": 54.17682761058622
+    },
+    {
+      "hit": {
+        "id": "zTjqVuCcM7ZEjRK18YfBMg",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:30.668926Z",
+        "updatedAt": "2024-03-13T16:08:55.068729Z",
+        "enrichedAt": "2024-03-14T21:04:01.202724Z",
+        "latLon": {
+          "lat": 52.54106681047858,
+          "lon": 13.389983931656026
+        },
+        "title": "What is FORMATION",
+        "tags": [
+          "IconCategory:Location",
+          "Color:DarkGreen",
+          "Shape:RoundWithPointer",
+          "ExternalId:ahoy-berlin-tutorialpoint1",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.389983931656026,
+            52.54106681047858
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "DarkGreen",
+        "iconCategory": "Location",
+        "shape": "RoundWithPointer",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "c89ba064-b98a-4523-b15d-d7db19252ea6",
+            "text": "FORMATION is an easy to use app that you use to\nexplore your workplace.\n\nThis tutorial explains FORMATION using FORMATION. Each step\nin the tutorial is a FORMATION point and you can click on \nthe links inside them to go to the next step.\n\nPoints are visible on the map and when you open them,\nyou can explore their content. The map allows you to pan\nand zoom to the area you are interested in. You can also\nuse search to find things that you are looking for.\n\nNext we'll show you how to create your own points.",
+            "htmlPreview": "<div><p>FORMATION is an easy to use app that you use to\nexplore your workplace.</p><p>This tutorial explains FORMATION using FORMATION. Each step\nin the tutorial is a FORMATION point and you can click on \nthe links inside them to go to the next step.</p><p>Points are visible on the map and when you open them,\nyou can explore their content. The map allows you to pan\nand zoom to the area you are interested in. You can also\nuse search to find things that you are looking for.</p><p>Next we'll show you how to create your own points.</p></div>"
+          },
+          {
+            "type": "GeoObject",
+            "id": "5294e2f2-89f3-4a7e-a10b-ac181df067cf",
+            "objectId": "zfzW3RPFafknN-Ad6KCx1Q",
+            "title": "How to create a point"
+          }
+        ],
+        "page_content": "Name: \nWhat is FORMATION: ExternalId:ahoy-berlin-tutorialpoint1, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 10.982831,
+      "distanceMeters": 45.74771573586046
+    },
+    {
+      "hit": {
+        "id": "zfzW3RPFafknN-Ad6KCx1Q",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:32.874574Z",
+        "updatedAt": "2024-03-13T16:08:55.071624Z",
+        "enrichedAt": "2024-03-14T21:04:01.203676Z",
+        "latLon": {
+          "lat": 52.5209187578079,
+          "lon": 13.409607191137173
+        },
+        "title": "How to create a point",
+        "tags": [
+          "IconCategory:Location",
+          "Color:DarkGreen",
+          "Shape:RoundWithPointer",
+          "ExternalId:ahoy-berlin-tutorialpoint2",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.409607191137173,
+            52.5209187578079
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "DarkGreen",
+        "iconCategory": "Location",
+        "shape": "RoundWithPointer",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "29eca121-69bb-48bc-9668-124807e8c542",
+            "text": "Points are how you share information about things around you.\n\nTo create a new point:            \n- Click the ADD button\n- Chose \"Point\" in the Workspace Tools menu\n- Give it a name\n\nIf you want, can customize it further\n- customize the color, icon and shape of the point marker via the customize badge menu\n- Add some content like an image, links, text, etc.\n\nNext we'll show you how to create a task.",
+            "htmlPreview": "<div><p>Points are how you share information about things around you.</p><p>To create a new point:</p><ul><li>Click the ADD button</li><li>Chose &quot;Point&quot; in the Workspace Tools menu</li><li>Give it a name</li></ul><p>If you want, can customize it further</p><ul><li>customize the color, icon and shape of the point marker via the customize badge menu</li><li>Add some content like an image, links, text, etc.</li></ul><p>Next we'll show you how to create a task.</p></div>",
+            "title": "How to create a new point"
+          },
+          {
+            "type": "Image",
+            "id": "1d7c7322-efd7-4c7f-975d-e8005b7ac4a1",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/11ecf873-2b39-49b5-86ea-4053d3c06437",
+            "width": 332,
+            "height": 715,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/11ecf873-2b39-49b5-86ea-4053d3c06437",
+            "thumbNail": {
+              "type": "Image",
+              "id": "172a973e-6289-4654-9a05-f8218dd2f7d8",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/11ecf873-2b39-49b5-86ea-4053d3c06437_thmb",
+              "width": 139,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/11ecf873-2b39-49b5-86ea-4053d3c06437_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/gif",
+            "title": "Create a point"
+          },
+          {
+            "type": "GeoObject",
+            "id": "ee183386-cb38-42fc-96a3-fcabf9a93596",
+            "objectId": "Wx35L-7O9Fhfmb0O7lDygQ",
+            "title": "How to create a task"
+          }
+        ],
+        "page_content": "Name: \nHow to create a point: ExternalId:ahoy-berlin-tutorialpoint2, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 3.4324207,
+      "distanceMeters": 2603.214336082557
+    },
+    {
+      "hit": {
+        "id": "Wx35L-7O9Fhfmb0O7lDygQ",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:37.558343Z",
+        "updatedAt": "2024-03-13T16:08:55.070269Z",
+        "enrichedAt": "2024-03-14T21:04:01.203434Z",
+        "latLon": {
+          "lat": 52.518621983354656,
+          "lon": 13.375209562908074
+        },
+        "title": "How to create a task",
+        "tags": [
+          "IconCategory:Task",
+          "Color:Black",
+          "Shape:SquareWithPointer",
+          "ExternalId:ahoy-berlin-tutorialpoint3",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.375209562908074,
+            52.518621983354656
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "Black",
+        "iconCategory": "Task",
+        "shape": "SquareWithPointer",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "90143aeb-baf6-4dd9-be94-5a16353b8b79",
+            "text": "Tasks are a special type of point that you can use to coordinate\nwho needs to do what in your workplace. \n                                        \nTo create a new task:\n - Click the ADD button\n - Chose \"Task\" in the Workspace Tools menu\n - Write the task name, select a due date for the task, assign the task to the responsible person\n - (optional) Add attachments like an image, link, text or object to the task\n \n Next, we'll show you how to use the map.",
+            "htmlPreview": "<div><p>Tasks are a special type of point that you can use to coordinate\nwho needs to do what in your workplace.</p><p>To create a new task:</p><ul><li>Click the ADD button</li><li>Chose &quot;Task&quot; in the Workspace Tools menu</li><li>Write the task name, select a due date for the task, assign the task to the responsible person</li><li>(optional) Add attachments like an image, link, text or object to the task</li></ul><p>Next, we'll show you how to use the map.</p></div>",
+            "title": "How to create a new task"
+          },
+          {
+            "type": "Image",
+            "id": "4e5ddb5c-530b-4526-b397-bb3ddbd9878a",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/32ccb927-8f9a-4b9c-be83-82678d695e3e",
+            "width": 332,
+            "height": 715,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/32ccb927-8f9a-4b9c-be83-82678d695e3e",
+            "thumbNail": {
+              "type": "Image",
+              "id": "21d6a888-e5ed-4593-aa5a-930d159790e2",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/32ccb927-8f9a-4b9c-be83-82678d695e3e_thmb",
+              "width": 139,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/32ccb927-8f9a-4b9c-be83-82678d695e3e_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/gif",
+            "title": "Create a task"
+          },
+          {
+            "type": "GeoObject",
+            "id": "629a0386-b251-4bba-a2d6-33c6d84a05ed",
+            "objectId": "mmwqNNeev8KdDffYdc2k8Q",
+            "title": "How to use the map"
+          }
+        ],
+        "page_content": "Name: \nHow to create a task: ExternalId:ahoy-berlin-tutorialpoint3, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 3.372017,
+      "distanceMeters": 2724.080943471434
+    },
+    {
+      "hit": {
+        "id": "mmwqNNeev8KdDffYdc2k8Q",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:41.985383Z",
+        "updatedAt": "2024-03-13T16:08:55.071866Z",
+        "enrichedAt": "2024-03-14T21:04:01.203040Z",
+        "latLon": {
+          "lat": 52.514400179754304,
+          "lon": 13.350102054543015
+        },
+        "title": "How to use the map",
+        "tags": [
+          "IconCategory:Information",
+          "Color:LightBlue",
+          "Shape:Square",
+          "ExternalId:ahoy-berlin-tutorialpoint4",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.350102054543015,
+            52.514400179754304
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "LightBlue",
+        "iconCategory": "Information",
+        "shape": "Square",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "154772d0-e176-4a48-bdd3-2dd11396557f",
+            "text": "Next, we'll show you how to create a meeting point.",
+            "htmlPreview": "<div><p>Next, we'll show you how to create a meeting point.</p></div>"
+          },
+          {
+            "type": "Image",
+            "id": "e75446de-683e-434d-836b-c7f9929a5386",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/8bf17ce7-544b-4d64-9b9a-2a8670fbf130",
+            "width": 332,
+            "height": 715,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/8bf17ce7-544b-4d64-9b9a-2a8670fbf130",
+            "thumbNail": {
+              "type": "Image",
+              "id": "5ccb88ba-9905-4120-9ceb-fc073865f44d",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/8bf17ce7-544b-4d64-9b9a-2a8670fbf130_thmb",
+              "width": 139,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/8bf17ce7-544b-4d64-9b9a-2a8670fbf130_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/gif",
+            "title": "Use the zoom"
+          },
+          {
+            "type": "GeoObject",
+            "id": "73bc1d0b-a3ec-4133-9538-80ff50eebba7",
+            "objectId": "oCGsL_Srmpt5FcmoggaJDQ",
+            "title": "How to create meeting"
+          }
+        ],
+        "page_content": "Name: \nHow to use the map: ExternalId:ahoy-berlin-tutorialpoint4, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 2.919538,
+      "distanceMeters": 4052.2858809048425
+    },
+    {
+      "hit": {
+        "id": "oCGsL_Srmpt5FcmoggaJDQ",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:47.035446Z",
+        "updatedAt": "2024-03-13T16:08:55.070269Z",
+        "enrichedAt": "2024-03-14T21:04:01.203229Z",
+        "latLon": {
+          "lat": 52.505590046417474,
+          "lon": 13.321531811612608
+        },
+        "title": "How to create meeting",
+        "tags": [
+          "IconCategory:MeetingRoom",
+          "Color:AquaMarine",
+          "Shape:Circle",
+          "ExternalId:ahoy-berlin-tutorialpoint5",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.321531811612608,
+            52.505590046417474
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "AquaMarine",
+        "iconCategory": "MeetingRoom",
+        "shape": "Circle",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "69f2b040-f94b-4fa8-9ce7-8029e0ac549b",
+            "text": "Meetings are useful to plan to meet people at a certain place.\n\nTo create a new meeting:\n- Click the ADD button\n- Chose \"Meet\" in the Workspace Tools menu\n- Write the meeting name, select a date and time for the meeting and select the attendees\n- (optional) Add attachments like an image, link, text or object to the meeting\n\nNext, we'll ask you for some feedback.",
+            "htmlPreview": "<div><p>Meetings are useful to plan to meet people at a certain place.</p><p>To create a new meeting:</p><ul><li>Click the ADD button</li><li>Chose &quot;Meet&quot; in the Workspace Tools menu</li><li>Write the meeting name, select a date and time for the meeting and select the attendees</li><li>(optional) Add attachments like an image, link, text or object to the meeting</li></ul><p>Next, we'll ask you for some feedback.</p></div>",
+            "title": "How to create a new meeting"
+          },
+          {
+            "type": "Image",
+            "id": "a087506c-5af5-437c-bdb6-024ccbcc9f00",
+            "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/5a81b3ce-86ef-47ac-ae28-3f02a48abd59",
+            "width": 332,
+            "height": 715,
+            "key": "IMjwYnp3nPSWbtdZFUprCA/5a81b3ce-86ef-47ac-ae28-3f02a48abd59",
+            "thumbNail": {
+              "type": "Image",
+              "id": "720f6f88-5c56-4d12-919e-f004ce6f62d1",
+              "href": "https://images.tryformation.com/IMjwYnp3nPSWbtdZFUprCA/5a81b3ce-86ef-47ac-ae28-3f02a48abd59_thmb",
+              "width": 139,
+              "height": 300,
+              "key": "IMjwYnp3nPSWbtdZFUprCA/5a81b3ce-86ef-47ac-ae28-3f02a48abd59_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/gif",
+            "title": "Create a meeting"
+          },
+          {
+            "type": "GeoObject",
+            "id": "745637a3-ff46-44cc-9c82-672264e686a2",
+            "objectId": "Emyx2NB69IG56mak-_0vtQ",
+            "title": "End of the Tutorial"
+          }
+        ],
+        "page_content": "Name: \nHow to create meeting: ExternalId:ahoy-berlin-tutorialpoint5, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 2.575521,
+      "distanceMeters": 6128.386915378416
+    },
+    {
+      "hit": {
+        "id": "Emyx2NB69IG56mak-_0vtQ",
+        "ownerId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "objectType": "POI",
+        "createdAt": "2024-03-13T16:08:52.197370Z",
+        "updatedAt": "2024-03-13T16:08:54.055475Z",
+        "enrichedAt": "2024-03-14T21:04:01.215272Z",
+        "latLon": {
+          "lat": 52.47444298220747,
+          "lon": 13.390802390277871
+        },
+        "title": "End of the Tutorial",
+        "tags": [
+          "IconCategory:Block",
+          "Color:DarkBlue",
+          "Shape:RoundWithPointer",
+          "ExternalId:ahoy-berlin-tutorialpoint6",
+          "GroupId:IMjwYnp3nPSWbtdZFUprCA",
+          "Outdoor:true",
+          "OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "Keyword:tutorial",
+          "ObjectType:POI",
+          "Creator:0ce06a1a-20d8-4165-abf6-84f8f37afcbf:Jilles van Gurp"
+        ],
+        "canModify": false,
+        "canManage": false,
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.390802390277871,
+            52.47444298220747
+          ]
+        },
+        "keywords": [
+          "tutorial"
+        ],
+        "color": "DarkBlue",
+        "iconCategory": "Block",
+        "shape": "RoundWithPointer",
+        "updatedBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "createdBy": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+        "owner": {
+          "userId": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf",
+          "firstName": "Jilles",
+          "lastName": "van Gurp",
+          "jobTitle": "Chief Plumber",
+          "profilePhoto": {
+            "id": "9259b1e2-9baf-4337-a785-130f8f446e85",
+            "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "width": 1280,
+            "height": 720,
+            "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw",
+            "thumbNail": {
+              "type": "Image",
+              "id": "e3492c30-c2ff-496f-803f-b619c3db2491",
+              "href": "https://images.tryformation.com/0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "width": 300,
+              "height": 169,
+              "key": "0ce06a1a-20d8-4165-abf6-84f8f37afcbf/P-j76R35rtXTlfWgal1Xuw_thmb",
+              "mimeType": "image/png"
+            },
+            "mimeType": "image/png"
+          }
+        },
+        "deleted": false,
+        "attachments": [
+          {
+            "type": "Markdown",
+            "id": "ad6c1399-50f2-4318-bd35-590263fe4b12",
+            "text": "That concludes out tutorial. Have fun using FORMATION.",
+            "htmlPreview": "<div><p>That concludes out tutorial. Have fun using FORMATION.</p></div>"
+          },
+          {
+            "type": "Poll",
+            "id": "156c4ef4-0e5c-44bb-bbd4-7154db97be39",
+            "title": "Tutorial Feedback",
+            "options": [
+              {
+                "title": "Very useful",
+                "subtitle": "You know now how to use the app.",
+                "iconCategory": "Star",
+                "color": "Green",
+                "id": "af836d57-2c07-4187-aa31-84c05514b7e7",
+                "sound": "Klaxon"
+              },
+              {
+                "title": "Somewhat useful",
+                "subtitle": "You learned a thing, but still have questions.",
+                "iconCategory": "Lightbulb",
+                "color": "Yellow",
+                "id": "35629fb6-8323-4158-b85c-c293b11e87bf",
+                "sound": "Klaxon"
+              },
+              {
+                "title": "Not useful",
+                "subtitle": "You still don't know how to use the app.",
+                "iconCategory": "Block",
+                "color": "Red",
+                "id": "52ab6e0e-3dd7-4c2c-98e9-d4ee8d84e6e8",
+                "sound": "Klaxon"
+              }
+            ]
+          }
+        ],
+        "page_content": "Name: \nEnd of the Tutorial: ExternalId:ahoy-berlin-tutorialpoint6, Outdoor:true, OwnerId:0ce06a1a-20d8-4165-abf6-84f8f37afcbf, Keyword:tutorial, ObjectType:POI"
+      },
+      "score": 2.4516592,
+      "distanceMeters": 7430.483419732586
+    }
+  ]
+}

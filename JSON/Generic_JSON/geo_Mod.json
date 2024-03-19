@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": "Name: Checkpoint Charlie, id: 0, coordinates: [13.3904, 52.5076]",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3904,
+          52.5076
+        ]
+      },
+      "coordinates": "13.3904, 52.5076"
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": "Name: Topography of Terror, id: 1, coordinates: [13.385, 52.5065]",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.385,
+          52.5065
+        ]
+      },
+      "coordinates": "13.385, 52.5065"
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": "Name: Berlinische Galerie, id: 2, coordinates: [13.3946, 52.5025]",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3946,
+          52.5025
+        ]
+      },
+      "coordinates": "13.3946, 52.5025"
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": "Name: German Museum of Technology, id: 3, coordinates: [13.3777, 52.4986]",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3777,
+          52.4986
+        ]
+      },
+      "coordinates": "13.3777, 52.4986"
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": "Name: Tempodrom, id: 4, coordinates: [13.3811, 52.4982]",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3811,
+          52.4982
+        ]
+      },
+      "coordinates": "13.3811, 52.4982"
+    }
+  ]
+}

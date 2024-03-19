@@ -1,0 +1,31 @@
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJzdWIiOiJIWFMyeDNNbGMySWwtdHFjakRpWGlnIiwid29ya3NwYWNlIjoiYWhveS1iZXJsaW4iLCJzY29wZSI6IkFjY2VzcyIsImlzcyI6InRyeWZvcm1hdGlvbi5jb20iLCJleHAiOjE3MTA1OTE0NjIsImlhdCI6MTcxMDUwNTA2Miwid29ya3NwYWNlSWQiOiJJTWp3WW5wM25QU1didGRaRlVwckNBIn0.W0WuAAQLweEGYMW0z6IyGlxuFytVpv6WF9GngTKFyPb0tJ3wjXaTwgU5yynwZ5S3ah9yGXY08oSZEajs5qwlAw' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.tryformation.com' \
+  -H 'referer: https://app.tryformation.com/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36' \
+  -H 'x-formation-session: 8577206055138758867' \
+  -H 'x-formation-version: web:0.1.68' \
+  --data-raw '{"from":0,"size":321,"groupIds":["IMjwYnp3nPSWbtdZFUprCA"],"userId":"HXS2x3Mlc2Il-tqcjDiXig","objectTypes":["POI],"tags":[],"orTags":[],"excludeTags":["Visibility:Hidden","Flagged:true","IsArchetype:true"],"centroid":{"lat":52.54126678184301,"lon":13.390575112931742},"debug":false}'
+{"type":"com.tryformation.api.RestError.BadRequest","code":"VALIDATION_FAILED","details":"json does not parse"}%                                                ratul@Ratuls-MBP ~ % >....                                                      
+  -H 'accept-language: en-US,en;q=0.9' \        
+  -H 'authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJzdWIiOiJIWFMyeDNNbGMySWwtdHFjakRpWGlnIiwid29ya3NwYWNlIjoiYWhveS1iZXJsaW4iLCJzY29wZSI6IkFjY2VzcyIsImlzcyI6InRyeWZvcm1hdGlvbi5jb20iLCJleHAiOjE3MTA1OTE0NjIsImlhdCI6MTcxMDUwNTA2Miwid29ya3NwYWNlSWQiOiJJTWp3WW5wM25QU1didGRaRlVwckNBIn0.W0WuAAQLweEGYMW0z6IyGlxuFytVpv6WF9GngTKFyPb0tJ3wjXaTwgU5yynwZ5S3ah9yGXY08oSZEajs5qwlAw' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://app.tryformation.com' \                     
+  -H 'referer: https://app.tryformation.com/' \
+  -H 'sec-ch-ua: "Chromium";v="122", "Not(A:Brand";v="24", "Google Chrome";v="122"' \                                          
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \    
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \                        
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36' \
+  -H 'x-formation-session: 8577206055138758867' \
+  -H 'x-formation-version: web:0.1.68' \
+  --data-raw '{"from":0,"size":321,"groupIds":["IMjwYnp3nPSWbtdZFUprCA"],"userId":"HXS2x3Mlc2Il-tqcjDiXig","objectTypes":["POI"],"tags":[],"orTags":[],"excludeTags":["Visibility:Hidden","Flagged:true","IsArchetype:true"],"centroid":{"lat":52.54126678184301,"lon":13.390575112931742},"debug":false}'
