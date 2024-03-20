@@ -8,4 +8,4 @@ In the demo, the LLM is provided "context" relevant to Formation GmbH through th
 
 The demo currently is set to showcase two locally run models (using Ollama) Gemma 2 and Llama 2, and can be compared to OPENAI models.
 
-Currently, the embeddings used is [all-MiniLM-L6-v2]https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+Currently, the embeddings used is [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
